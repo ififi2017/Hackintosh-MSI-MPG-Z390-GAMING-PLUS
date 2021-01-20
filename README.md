@@ -1,18 +1,20 @@
 # 简述
-本EFI配置文件使用**OpenCore 0.6.5**，并支持到**macOS 11.0.1**。经测试可正常使用，各功能均完善（核显未开启显示仅做计算，需要自行修改ID）。
+本EFI配置文件使用**OpenCore 0.6.5**，并支持到**macOS 11.1**。经测试可正常使用，各功能均完善（核显未开启显示仅做计算，需要自行修改ID）。
 
 # 本机配置
 主板：微星 MPG Z390 GAMING PLUS
 
 CPU：i9-9900K
 
-显卡：AMD Radeon RX 5700 XT （免驱AMD显卡亦可）
+显卡：AMD Radeon RX 5700 XT
 
 RAM：DDR4 32GB
 
-声卡：ALC892
+声卡：ALC892 (alcid=1)
 
 有线网卡：Intel Ethernet Connection I219-V
+
+无线网卡：Fenvi FV-T919 (BCM94360CD)
 
 # BUG列表
 - 暂未找到......
