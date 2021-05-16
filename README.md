@@ -17,7 +17,7 @@ RAM：DDR4 32GB
 无线网卡：Fenvi FV-T919 (BCM94360CD)
 
 # BUG列表
-- macOS 11.3 更新发布后，OpenCore的XhciPortLimit Quirk失效。本配置文件临时将此项关闭。待修复后定制USB。一劳永逸解决该问题。
+- macOS 11.3 更新发布后，OpenCore的XhciPortLimit Quirk失效。本配置文件临时将此项关闭。但关闭后USB端口不能超过15个。待修复后定制USB。一劳永逸解决该问题。
 
 # 感谢列表 （排名不分先后）
 [Intel Coffee Lake平台完美黑苹果系统安装教程（Opencore+Catalina15.4）](https://www.bilibili.com/video/BV1hA411t7dr "Intel Coffee Lake平台完美黑苹果系统安装教程（Opencore+Catalina15.4）")
