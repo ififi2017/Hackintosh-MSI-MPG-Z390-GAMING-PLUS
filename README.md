@@ -2,7 +2,7 @@
 [README_cn.md](https://github.com/ififi2017/Hackintosh-MSI-MPG-Z390-GAMING-PLUS/blob/OC0.7.6/README_CN.md)
 
 # Brief introduction
-This EFI profile uses**OpenCore 0.7.9**and theoretically supports**macOS 12.1**. After preliminary testing, no more bugs have been found.
+This EFI profile uses **OpenCore 0.7.9** and theoretically supports **macOS 12.1**. After preliminary testing, no more bugs have been found.
 
 # Computer configuration
 Motherboard: MSI MPG Z390 GAMING PLUS
